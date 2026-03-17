@@ -1,10 +1,10 @@
 ﻿using System;
 
-//WorkWithIntegers();
-//OrderPrecedence();
-//WorkWithDoubles();
-//WorkWithRemainders();
-//WorkWithDecimals();
+WorkWithIntegers();
+OrderPrecedence();
+WorkWithDoubles();
+WorkWithRemainders();
+WorkWithDecimals();
 
 void WorkWithIntegers()
 {
@@ -110,3 +110,10 @@ void WorkWithDecimals()
 double radius = 2.50;
 double area = Math.PI * radius * radius;
 Console.WriteLine($"Area of a circle with radius {radius} is {area}");
+
+double length = 2.0;
+double width = 3.0;
+double areaOfRectangle = length * width;
+Console.WriteLine($"Area of a rectangle with length {length} and width {width} is {areaOfRectangle}");
+double perimeterOfRectangle = 2 * (length + width);
+Console.WriteLine($"Perimeter of a rectangle with length {length} and width {width} is {perimeterOfRectangle}");
