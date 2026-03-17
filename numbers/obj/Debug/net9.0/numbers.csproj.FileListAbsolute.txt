@@ -1,0 +1,15 @@
+C:\code\C-Sharp-Tutorials\numbers\bin\Debug\net9.0\numbers.exe
+C:\code\C-Sharp-Tutorials\numbers\bin\Debug\net9.0\numbers.deps.json
+C:\code\C-Sharp-Tutorials\numbers\bin\Debug\net9.0\numbers.runtimeconfig.json
+C:\code\C-Sharp-Tutorials\numbers\bin\Debug\net9.0\numbers.dll
+C:\code\C-Sharp-Tutorials\numbers\bin\Debug\net9.0\numbers.pdb
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.AssemblyInfoInputs.cache
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.AssemblyInfo.cs
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.csproj.CoreCompileInputs.cache
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.sourcelink.json
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.dll
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\refint\numbers.dll
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.pdb
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\numbers.genruntimeconfig.cache
+C:\code\C-Sharp-Tutorials\numbers\obj\Debug\net9.0\ref\numbers.dll
